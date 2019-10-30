@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev" :"next",
+    "start": "next start",
+    "bulid" : "next build"
   },
-  "keywords": [],
+  "keywords": [],  
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "next": "^9.1.2",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
-  }
+  "license": "ISC"
 }
